@@ -1,11 +1,11 @@
 package ch.hevs.model;
 
-public class Test {
+public class Maths {
 
 	private int number1;
 	private int number2;
 
-	public Test(int number1, int number2) {
+	public Maths(int number1, int number2) {
 		this.number1 = number1;
 		this.number2 = number2;
 	}
