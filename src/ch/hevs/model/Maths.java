@@ -14,6 +14,10 @@ public class Maths {
 		return number1 + number2;
 	}
 	
+	public int modulo() {
+		return number1 % number2;
+	}
+	
 	public int multiply() {
 		return number1 * number2;
 	}
