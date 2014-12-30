@@ -9,7 +9,7 @@ import ch.hevs.model.Maths;
 public class Testing {
 
 	/**
-	 * Test the add() method
+	 * Testing the add() method
 	 */
 	@Test
 	public void testAdding() {
@@ -18,7 +18,7 @@ public class Testing {
 	}
 	
 	/**
-	 * Test the multiply() method
+	 * Testing the multiply() method
 	 */
 	@Test
 	public void testMultiplying() {
