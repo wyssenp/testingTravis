@@ -17,7 +17,7 @@ public class Testing {
 	@Test
 	public void testMultiplying() {
 		Maths n2 = new Maths(5,5);
-		assertEquals(25,n2.multiply());
+		assertEquals(25, n2.multiply());
 	}
 
 }
